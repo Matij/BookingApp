@@ -53,6 +53,7 @@ android {
     composeOptions {
         kotlinCompilerExtensionVersion = Deps.Compose.version
     }
+    namespace = "com.martafoderaro.bookingapp"
 }
 
 dependencies {
