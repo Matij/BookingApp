@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BookingApp</string>
+    <string name="bookings_label">Bookings for %1$s</string>
 </resources>
