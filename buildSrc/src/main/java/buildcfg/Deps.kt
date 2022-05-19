@@ -125,7 +125,7 @@ object Deps {
     }
 
     object Test {
-        const val coreTesting = "android.arch.core:core-testing:1.1.1"
+        const val coreTesting = "androidx.arch.core:core-testing:2.1.0"
         const val espresso = "androidx.test.espresso:espresso-core:3.4.0"
         const val extJUnit = "androidx.test.ext:junit:1.1.3"
 
