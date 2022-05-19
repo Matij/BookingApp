@@ -1,0 +1,30 @@
+[
+  {
+    "starts_at": "2022-03-10T09:00:00.000Z",
+    "ends_at": "2022-03-10T17:00:00.000Z",
+    "space_name": "Work.Life Reading",
+    "space_timezone": "Europe/London",
+    "space_image": "https://img.desana.io/7ansazJHWcMX9q82O1NbE1wiLy7C8VCivOd0guAh3Q8/rs:fill/w:447/h:300/g:ce/el:true/Z3M6Ly91c2VyLWltYWdlcy5kZXNhbmEuaW8vcy1iYzgzNzFlMC1mODBjLTRkYWUtODQ4MC1hYjViZTViZGZmN2M"
+  },
+  {
+    "starts_at": "2022-03-22T09:00:00.000Z",
+    "ends_at": "2022-03-22T17:00:00.000Z",
+    "space_name": "The Melting Pot",
+    "space_timezone": "Europe/London",
+    "space_image": "https://img.desana.io/cWjmibPOjHx6YXosDpFNsWfm08AhcTlSkEbjE90l2oQ/rs:fill/w:431/h:300/g:ce/el:true/Z3M6Ly91c2VyLWltYWdlcy5kZXNhbmEuaW8vcy03NTdhOWU0Ny04OWIyLTQ4NTEtOWUxNy01Y2Q2MTg4OGJjY2M"
+  },
+  {
+    "starts_at": "2022-03-23T13:00:00.000Z",
+    "ends_at": "2022-03-23T17:00:00.000Z",
+    "space_name": "The Melting Pot",
+    "space_timezone": "Europe/London",
+    "space_image": "https://img.desana.io/cWjmibPOjHx6YXosDpFNsWfm08AhcTlSkEbjE90l2oQ/rs:fill/w:431/h:300/g:ce/el:true/Z3M6Ly91c2VyLWltYWdlcy5kZXNhbmEuaW8vcy03NTdhOWU0Ny04OWIyLTQ4NTEtOWUxNy01Y2Q2MTg4OGJjY2M"
+  },
+  {
+    "starts_at": "2022-03-28T13:00:00.000Z",
+    "ends_at": "2022-03-28T21:00:00.000Z",
+    "space_name": "Studio by Tishman Speyer CitySpire",
+    "space_timezone": "America/New_York",
+    "space_image": "https://img.desana.io/E-7NVTxOTnqUFA9o_AjuNsSWRRlR5lQArOSwkz79IX4/rs:fill/w:431/h:300/g:ce/el:true/Z3M6Ly91c2VyLWltYWdlcy5kZXNhbmEuaW8vcy1kY2I0OTYwMy0zZGU2LTRhYjUtYjliZi0yNTNiMTlmNzZhYzk"
+  }
+]
